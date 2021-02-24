@@ -1,6 +1,9 @@
 ## GhidraX64Dbg
 Extension containing a Ghidra script to export annotations from Ghidra to an X32/X64 database.
 
+## Potentially Better Project
+Update: Check out https://github.com/bootleg/ret-sync/commits/master. Their offering appears to have far more features than the simple sync that this project accomplishes and supports a wider set of debuggers and RE programs.
+
 ## Easy Installation
 1. From the releases tab download the zip file
 2. Open Ghidra and select File -> Install Extensions
